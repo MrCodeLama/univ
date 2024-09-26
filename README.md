@@ -12,7 +12,7 @@
 <td valign="top">
 
   * Semester 5
-    * [Numerical Methods](google.com)
+    * [Numerical Methods](https://github.com/MrCodeLama/univ/tree/main/5sem/NumericalMethods)
     * [System Modeling](google.com)
     * [Operating Systems](google.com)
     * [Philosophy](google.com)
