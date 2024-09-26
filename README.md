@@ -13,7 +13,7 @@
 
   * Semester 5
     * [Numerical Methods](https://github.com/MrCodeLama/univ/tree/main/5sem/NumericalMethods)
-    * [System Modeling](google.com)
+    * [System Modeling](https://github.com/MrCodeLama/sysmodel)
     * [Operating Systems](google.com)
     * [Philosophy](google.com)
     * [OOP](https://github.com/MrCodeLama/oop)
